@@ -26,13 +26,11 @@
   <a href="index.html">Save the Date</a>
   <a href="https://www.target.com/gift-registry/" target=_blank>Gift Registry</a>
   <a href="contact.html">Contact Us</a>
-  <a href="guests.php">Guests</a>
 </div>
 
 <div class="main">
-  <h2><center>Nearby Lodging</center></h2><br>
-  <p>There are several lodging locations available nearby for out of town guests<br><br>Holiday Inn<br>123 Dove Ln<br>Rockford, IL<br>815-583-5545<br><br>
-  Red Roof Inn<br>322 Timber Avenue<br>Rockford, IL<br>815-585-5555<br><br>
+  <h2><center>RSVP</center></h2><br>
+  <p>PHP code will go here for guest to RSVP</p>
 </div>
 </body>
 <footer>
@@ -40,7 +38,6 @@
     <a href="index.html" class="foot-btn">Save the Date</a>
     <a href="https://www.target.com/gift-registry/" target=_blank class="foot-btn">Gift Registry</a>
     <a href="contact.html" class="foot-btn">Contact Us</a>
-    <a href="guests.php" class="foot-btn">Guests</a>
   </div>
 </footer>
 </html>
